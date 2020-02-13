@@ -2,7 +2,7 @@
 // @name         Better SE User Card overlay
 // @namespace    https://github.com/TheHelmar/seUserCards
 // @homepage     https://github.com/TheHelmar/seUserCards
-// @version      0.4
+// @version      0.4.1
 // @description  Provides a new User Card showing question & answer count
 // @author       Helmar
 // @match        https://*.stackexchange.com/questions*
@@ -27,7 +27,6 @@
         //Query User Page
         let userPage = document.implementation.createHTMLDocument("");
         let userPageData;
-        console.log(userURL);
         $.get(userURL, function(userPageData, status){
             userPage.documentElement.innerHTML = userPageData;
             //Get counts
