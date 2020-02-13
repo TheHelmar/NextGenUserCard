@@ -2,7 +2,7 @@
 // @name         Better SE User Card overlay
 // @namespace    https://github.com/TheHelmar/seUserCards
 // @homepage     https://github.com/TheHelmar/seUserCards
-// @version      0.4.1
+// @version      0.4.2
 // @description  Provides a new User Card showing question & answer count
 // @author       Helmar
 // @match        https://*.stackexchange.com/questions*
