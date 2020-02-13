@@ -12,8 +12,8 @@
 // @match        https://*.askubuntu.com/questions*
 // @match        https://*.stackapps.com/questions*
 // @match        https://*.mathoverflow.net/questions*
-// @downloadURL  https://github.com/TheHelmar/SEReviewStats/raw/master/seUserCards.user.js
-// @updateURL    https://github.com/TheHelmar/SEReviewStats/raw/master/seUserCards.user.js
+// @downloadURL  https://github.com/TheHelmar/NextGenUserCard/raw/master/seUserCards.user.js
+// @updateURL    https://github.com/TheHelmar/NextGenUserCard/raw/master/seUserCards.user.js
 // @grant        none
 // ==/UserScript==
 
